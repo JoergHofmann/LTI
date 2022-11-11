@@ -1,0 +1,421 @@
+---
+id: "ag0001"
+inventar:
+        Vermoegen:
+                Anlagevermoegen:
+                        -
+                          Bezeichnung: "Grundstück, Speiergarten 13, 65191 Wiesbaden"
+                          ID: inv10
+                          Menge: 1
+                          Rang: 3
+                          Wert: 55329
+                          VS: "v"
+                          AvUv: "a"  
+                          Konto: "0085"
+                        - 
+                          Bezeichnung: "Gebäude, Speiergarten 13, 65191 Wiesbaden"
+                          ID: inv11
+                          Menge: 1
+                          Rang: 4
+                          Wert: 1324566
+                          VS: "v"  
+                          AvUv: "a"
+                          Konto: "0090"       
+                        - 
+                          Bezeichnung: "Ätzbad für Platinen"
+                          ID: inv12
+                          Menge: 2
+                          Rang: 5
+                          Wert: 1940
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0200"       
+                        - 
+                          Bezeichnung: "Lötautomat"
+                          ID: inv13
+                          Menge: 4
+                          Rang: 5
+                          Wert: 2890
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0200"       
+                        - 
+                          Bezeichnung: "UV-Belichter für Platinen"
+                          ID: inv14
+                          Menge: 1
+                          Rang: 5
+                          Wert: 2320
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0200"       
+                        - 
+                          Bezeichnung: "PKW WI-DM 987"
+                          ID: inv15
+                          Menge: 1
+                          Rang: 6
+                          Wert: 1
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0320"        
+                        - 
+                          Bezeichnung: "PKW WI-FS 987"
+                          ID: inv16
+                          Menge: 1
+                          Rang: 6
+                          Wert: 1
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0320"        
+                        - 
+                          Bezeichnung: "PKW WI-SD 987"
+                          ID: inv17
+                          Menge: 1
+                          Rang: 6
+                          Wert: 1
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0320"        
+                        - 
+                          Bezeichnung: "Transporter WI-RP 987"
+                          ID: inv18
+                          Menge: 1
+                          Rang: 6
+                          Wert: 67800
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0320"        
+                        - 
+                          Bezeichnung: "Aktenschränke"
+                          ID: inv19
+                          Menge: 12
+                          Rang: 7
+                          Wert: 680
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0420"       
+                        - 
+                          Bezeichnung: "Buchhaltungsprogramm"
+                          ID: inv20
+                          Menge: 1
+                          Rang: 7
+                          Wert: 1645
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "EDV-Software"        
+                        - 
+                          Bezeichnung: "Kassenterminal"
+                          ID: inv21
+                          Menge: 2
+                          Rang: 7
+                          Wert: 879
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0425"        
+                        - 
+                          Bezeichnung: "PC-Arbeitsplatz"
+                          ID: inv22
+                          Menge: 4
+                          Rang: 7
+                          Wert: 620
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0027 "        
+                        - 
+                          Bezeichnung: "Regale, Verkaufsraum"
+                          ID: inv23
+                          Menge: 6
+                          Rang: 7
+                          Wert: 320
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0430"        
+                        - 
+                          Bezeichnung: "Rollcontainer"
+                          ID: inv24
+                          Menge: 4
+                          Rang: 7
+                          Wert: 180
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0420"        
+                        - 
+                          Bezeichnung: "Schreibtische"
+                          ID: inv25
+                          Menge: 4
+                          Rang: 7
+                          Wert: 170
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0420"        
+                        - 
+                          Bezeichnung: "Schreibtischstühle „Rückenfreund“"
+                          ID: inv26
+                          Menge: 4
+                          Rang: 7
+                          Wert: 260
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0420"        
+                        - 
+                          Bezeichnung: "Server"
+                          ID: inv27
+                          Menge: 1
+                          Rang: 7
+                          Wert: 2100
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0425"        
+                        - 
+                          Bezeichnung: "Verkaufstheke"
+                          ID: inv28
+                          Menge: 1
+                          Rang: 7
+                          Wert: 570
+                          VS: "v"  
+                          AvUv: "a"  
+                          Konto: "0430"        
+                Umlaufvermoegen:
+                        -
+                          Bezeichnung: "Festposten Kleinteile"
+                          ID: inv29
+                          Menge: 1
+                          Rang: 10
+                          Wert: 540
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Gehäuse „Chip“"
+                          ID: inv30
+                          Menge: 17
+                          Rang: 10
+                          Wert: 43
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Gehäuse „Röhre 1“"
+                          ID: inv31
+                          Menge: 22
+                          Rang: 10
+                          Wert: 91
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Gehäuse „Röhre 2“"
+                          ID: inv32
+                          Menge: 18
+                          Rang: 10
+                          Wert: 89
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Leerplatinen"
+                          ID: inv33
+                          Menge: 60
+                          Rang: 10
+                          Wert: 4.3
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Röhren RD2"
+                          ID: inv34
+                          Menge: 130
+                          Rang: 10
+                          Wert: 2.1
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Verstärker-Chip QWR23"
+                          ID: inv35
+                          Menge: 171
+                          Rang: 10
+                          Wert: 0.9
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3970"        
+                        - 
+                          Bezeichnung: "Stereoverstärker „Chip“"
+                          ID: inv36
+                          Menge: 15
+                          Rang: 11
+                          Wert: 345
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3981"        
+                        - 
+                          Bezeichnung: "Stereoverstärker „Röhre 1“"
+                          ID: inv37
+                          Menge: 8
+                          Rang: 11
+                          Wert: 1830
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3981"        
+                        - 
+                          Bezeichnung: "Stereoverstärker „Röhre 2“"
+                          ID: inv38
+                          Menge: 6
+                          Rang: 11
+                          Wert: 2015
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3981"        
+                        - 
+                          Bezeichnung: "CD-Player „Scheibenmann“"
+                          ID: inv39
+                          Menge: 8
+                          Rang: 11
+                          Wert: 322.1
+                          VS: "V"  
+                          AvUv: "U"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "CD-Player, portable"
+                          ID: inv40
+                          Menge: 4
+                          Rang: 11
+                          Wert: 22.7
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "Digitaltuner „Äther“"
+                          ID: inv41
+                          Menge: 3
+                          Rang: 11
+                          Wert: 566.9
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "Kopfhörer"
+                          ID: inv42
+                          Menge: 9
+                          Rang: 11
+                          Wert: 69.5
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "Plattenspieler „old school“"
+                          ID: inv43
+                          Menge: 10
+                          Rang: 11
+                          Wert: 755.4
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "Regalboxen RB4711"
+                          ID: inv44
+                          Menge: 7
+                          Rang: 11
+                          Wert: 145.3
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"        
+                        - 
+                          Bezeichnung: "Standbox SB0815"
+                          ID: inv45
+                          Menge: 14
+                          Rang: 11
+                          Wert: 321.45
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "3980"       
+                        - 
+                          Bezeichnung: "Forderungen LuL"
+                          ID: inv46
+                          Menge: 1
+                          Rang: 12
+                          Wert: 67340
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "Forderungen LuL"        
+                        - 
+                          Bezeichnung: "Kasse Büro"
+                          ID: inv47
+                          Menge: 1
+                          Rang: 13
+                          Wert: 1150
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "1000"        
+                        - 
+                          Bezeichnung: "Wechselgeld, Kasse 1"
+                          ID: inv48
+                          Menge: 1
+                          Rang: 13
+                          Wert: 800
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "1001"       
+                        - 
+                          Bezeichnung: "Wechselgeld, Kasse 2"
+                          ID: inv49
+                          Menge: 1
+                          Rang: 13
+                          Wert: 550
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "1002"        
+                        - 
+                          Bezeichnung: "Nassauische Sparkasse, 654 332 116"
+                          ID: inv50
+                          Menge: 1
+                          Rang: 14
+                          Wert: 21500
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "1200"        
+                        - 
+                          Bezeichnung: "Postbank AG, 445 332 100"
+                          ID: inv51
+                          Menge: 1
+                          Rang: 14
+                          Wert: 7550
+                          VS: "v"  
+                          AvUv: "u"  
+                          Konto: "1210"       
+        Schulden:
+                - 
+                  Bezeichnung: "Hypothekendarlehen, Nassauische Sparkasse, 876 345 222"
+                  ID: inv52
+                  Menge: 1
+                  Rang: 18
+                  Wert: 730960
+                  VS: "s"  
+                  AvUv: ""  
+                  Konto: "0650"       
+                -
+                  Bezeichnung: "Darlehen, Nassauische Sparkasse, 876 345 371"
+                  ID: inv53
+                  Menge: 1
+                  Rang: 19
+                  Wert: 176500
+                  VS: "s"  
+                  AvUv: ""  
+                  Konto: "0640"        
+                - 
+                  Bezeichnung: "Umsatzsteuer Vorjahr"
+                  ID: inv54
+                  Menge: 1
+                  Rang: 21
+                  Wert: 3210
+                  VS: "s"  
+                  AvUv: ""  
+                  Konto: "1790"        
+                - 
+                  Bezeichnung: "Verbindlichkeiten LuL"
+                  ID: inv55
+                  Menge: 1
+                  Rang: 20
+                  Wert: 43785
+                  VS: "s"  
+                  AvUv: ""  
+                  Konto: "1600"
